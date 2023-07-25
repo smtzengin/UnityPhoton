@@ -157,7 +157,7 @@ Material:
     - _StarsAmount: 17.23
     - _Stars_Amount: 14.1
     - _Surface: 0
-    - _Toggle_Stars_Only: 1
+    - _Toggle_Stars_Only: 0
     - _Transparency: 1
     - _Twinkle_Dampener: -0
     - _WorkflowMode: 1
