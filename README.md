@@ -15,3 +15,9 @@ Navigation NavMesh Tutorial video:
 https://github.com/smtzengin/UnityVS/assets/73519045/ff0b8bc9-29c0-4981-b19e-56ba2bb20c99
 
 
+
+https://github.com/smtzengin/UnityVS/assets/73519045/c5236dae-f646-401a-9b35-825f31575854
+
+
+
+
